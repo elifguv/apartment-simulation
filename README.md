@@ -25,7 +25,7 @@ Projede 10 katlı ve her katta 4 daire bulunan bir apartmanın inşaat süreci s
 
 ---
 
-## Simülasyon Akışı
+## Simülasyon Akışı 
 
 1. Temel atılır (`sleep(2)`).
 2. Her kat için bir process oluşturulur.
